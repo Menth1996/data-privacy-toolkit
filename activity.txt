@@ -1,2 +1,3 @@
 Activity on 2023-01-10T00:00:00 - Update "configuration" documentation
 Activity on 2023-01-11T00:00:00 - Update "model training" documentation
+Activity on 2023-01-12T00:00:00 - ci: Configure CI/CD pipeline
